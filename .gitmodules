@@ -4,9 +4,6 @@
 [submodule "Task-2.-Needham-Schroeder"]
 	path = Task-2.-Needham-Schroeder
 	url = https://github.com/Eterrny/Task-2.-Needham-Schroeder
-[submodule "Task-3.-EKE-Elgamal"]
-	path = Task-3.-EKE-Elgamal
-	url = https://github.com/Eterrny/Task-3.-EKE-Elgamal
 [submodule "Task3-EKE"]
-	path = Task3
+	path = Task3-EKE-Elgamal
 	url = https://github.com/Eterrny/Task-3.-EKE-Elgamal
