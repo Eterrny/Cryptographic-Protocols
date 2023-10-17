@@ -10,3 +10,6 @@
 [submodule "Task-4.-Guillou-Quisquater"]
 	path = Task-4.-Guillou-Quisquater
 	url = https://github.com/Eterrny/Task-4.-Guillou-Quisquater
+[submodule "Task-3.-EKE-Elgamal"]
+	path = Task-3.-EKE-Elgamal
+	url = https://github.com/Eterrny/Task-3.-EKE-Elgamal
