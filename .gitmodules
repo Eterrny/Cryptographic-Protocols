@@ -13,3 +13,6 @@
 [submodule "Task-5.-DSA"]
 	path = Task-5.-DSA
 	url = https://github.com/Eterrny/Task-5.-DSA
+[submodule "Task-6.-Karnin-Greene-Hellman"]
+	path = Task-6.-Karnin-Greene-Hellman
+	url = https://github.com/Eterrny/Task-6.-Karnin-Greene-Hellman
