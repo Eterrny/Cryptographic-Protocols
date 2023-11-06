@@ -16,3 +16,6 @@
 [submodule "Task-6.-Karnin-Greene-Hellman"]
 	path = Task-6.-Karnin-Greene-Hellman
 	url = https://github.com/Eterrny/Task-6.-Karnin-Greene-Hellman
+[submodule "Task-7.-Subliminal-Channel-OSS"]
+	path = Task-7.-Subliminal-Channel-OSS
+	url = https://github.com/Eterrny/Task-7.-Subliminal-Channel-OSS
