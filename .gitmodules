@@ -19,3 +19,6 @@
 [submodule "Task-7.-Subliminal-Channel-OSS"]
 	path = Task-7.-Subliminal-Channel-OSS
 	url = https://github.com/Eterrny/Task-7.-Subliminal-Channel-OSS
+[submodule "Task-8.-FOO"]
+	path = Task-8.-FOO
+	url = https://github.com/Eterrny/Task-8.-FOO
